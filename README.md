@@ -100,12 +100,19 @@ I'm a full-stack engineer who owns features from the database to production. I w
 
 ---
 
-### 📊 GitHub stats
+### 🧭 At a glance
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hassan-html&show_icons=true&hide=stars&hide_rank=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Hassan's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-html&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages">
-</p>
+| Area | What I use |
+|---|---|
+| **Backend** | Ruby on Rails · NestJS · Express · Flask · Laravel |
+| **Frontend** | Next.js · React · React Native · Inertia · Livewire |
+| **Data & messaging** | PostgreSQL · MongoDB · Redis · Sidekiq · Prisma |
+| **Realtime** | WebSockets · Socket.IO · Rails ActionCable |
+| **AI & integrations** | OpenAI API · Firebase · Stripe |
+| **Cloud & infra** | AWS (EC2, S3) · Nginx · Ubuntu Linux · Git |
+| **Practices** | RBAC · JWT auth · rate limiting · field-level encryption · background jobs · offline-first |
+
+<p align="center"><i>I work across the whole stack and several languages — picking the right tool per service rather than forcing one.</i></p>
 
 ---
 
