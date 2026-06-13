@@ -96,7 +96,9 @@ I'm a full-stack engineer who owns features from the database to production. I w
 - **E-commerce platforms** — production storefronts on **Next.js 16 + Prisma + PostgreSQL** with NextAuth, plus a full **offline-first Point-of-Sale system** (Laravel + Inertia + React, IndexedDB sync, barcode & thermal-print support, sales analytics).
 - **AI-powered applications** — chat and automation products integrating the **OpenAI API** into Next.js and Flask services.
 - **Headless CMS & business systems** — content platforms on **Laravel 12 + Livewire**, plus ERP, accounting, and internal admin tooling.
-- **Public projects** — a full-stack [e-commerce app](https://github.com/Hassan-html/ecommerce-app) (React + Express + Prisma), a multi-language [Next.js site](https://united-auto-intel.vercel.app), and a [NextAuth admin panel](https://ccpdpanel.vercel.app).
+- **Full-stack apps** — multi-language Next.js sites, NextAuth-secured admin panels, and React + Express + Prisma e-commerce builds.
+
+> 🔒 My repositories are kept private under client and team confidentiality. Happy to walk through architecture, code, and decisions on request.
 
 ---
 
