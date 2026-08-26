@@ -1,129 +1,115 @@
-<h1 align="center">Hi, I'm Hassan Ali 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full-Stack Software Engineer</b> · Polyglot · I architect, build, and run production systems end to end.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:BC8CFF&height=210&section=header&text=HASSAN%20ALI&fontSize=58&fontColor=FFFFFF&fontAlignY=34&desc=db%20schema%20to%20nginx%20config%20%E2%80%94%20same%20person&descAlignY=54&descSize=17&animation=fadeIn" width="100%" alt="Hassan Ali">
 
-<p align="center">
-  <a href="https://caffstack.com"><img src="https://img.shields.io/badge/Software_Engineer-0A0A0A?style=for-the-badge" alt="Engineer"></a>
-  <a href="mailto:hassanali.naeem9811@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <!-- Add your LinkedIn below and uncomment -->
-  <!-- <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2000&pause=500&color=3FB950&background=0D1117&multiline=true&repeat=true&width=820&height=230&lines=%24+git+push+origin+main+--tags;BUILD++++++next.js+%C2%B7+nestjs+%C2%B7+rails+%C2%B7+flask;TEST+++++++214+passed+%C2%B7+0+flaky;ENCRYPT++++phi+columns+sealed+at+rest;DEPLOY+++++ec2+%C2%B7+nginx+%C2%B7+ubuntu+%C2%B7+redis;%E2%9C%93+live+in+42s+%C2%B7+p95+118ms+%C2%B7+i+own+the+pager" alt="deploy pipeline">
 
----
+<br>
 
-### 🚀 About me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=820&lines=I+don't+hand+off+at+the+API+boundary.;Rails+%2B+NestJS+%2B+Python+%2B+Next.js+%E2%80%94+one+person%2C+whole+path.;Field-level+encryption+because+audits+are+real.;Offline-first+POS+that+works+with+the+internet+down." alt="what I do">
 
-I'm a full-stack engineer who owns features from the database to production. I work across **multiple stacks and languages** — TypeScript, Ruby, Python, and PHP — building everything from realtime microservice architectures to e-commerce platforms, POS systems, and AI services. I don't just write the code; I **deploy and operate it** on AWS behind Nginx on Ubuntu Linux.
+<br>
 
-- 🏗️ Build and ship **production web & mobile apps** across several engineering teams and organizations
-- 🧩 Design **microservice architectures** that span a Rails API, NestJS services, a Python/AI service, and a Next.js frontend — wired together with realtime channels (WebSockets / ActionCable)
-- 🔐 Security- and compliance-aware: role-based access control, JWT auth, rate limiting, and **field-level encryption for sensitive data at rest** (HIPAA-style PHI handling)
-- ☁️ Run my own infrastructure: deploy Next.js / NestJS / Rails apps to **AWS EC2** behind an **Nginx** reverse proxy on **Ubuntu Linux**, with Redis + background job queues
-- 🛒 Deep experience in **e-commerce, POS, ERP and CMS** products — including offline-first POS (IndexedDB) and headless CMS work
-- 📱 Cross-platform mobile with **React Native**
+<a href="https://caffstack.com"><img src="https://img.shields.io/badge/caffstack.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF&labelColor=0D1117" alt="Website"></a>
+<a href="mailto:hassanali.naeem9811@gmail.com"><img src="https://img.shields.io/badge/say_hello-0D1117?style=for-the-badge&logo=gmail&logoColor=F778BA&labelColor=0D1117" alt="Email"></a>
+<img src="https://img.shields.io/badge/open_to-full--stack_%2B_infra-0D1117?style=for-the-badge&labelColor=0D1117&color=3FB950" alt="Status">
 
----
+</div>
 
-### 🛠️ Tech I work with
+<br>
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-</p>
-
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square">
-  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white">
-  <img src="https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white">
-</p>
-
-**Backend**
-<p>
-  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white">
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white">
-</p>
-
-**Data & Messaging**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/Sidekiq-B1003E?style=flat-square">
-</p>
-
-**AI & Integrations**
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white">
-</p>
-
-**DevOps & Cloud**
-<p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-</p>
+```yaml
+# whoami --verbose
+role:      full-stack engineer · I write it, deploy it, and get paged for it
+languages: [typescript, ruby, python, php]
+scope:     schema → service → realtime channel → nginx → ec2 → on-call
+bias:      right tool per service, not one stack forced everywhere
+```
 
 ---
 
-### 💼 What I've built
+<table>
+<tr><td width="50%" valign="top">
 
-> Most of my recent work lives in private team/client repositories, so these are described by capability rather than by name.
+### What I own end to end
 
-- **Realtime microservices platform** — a multi-service system combining a **Rails 7 API**, **NestJS** services, a **Python AI microservice**, and a **Next.js / React 19** frontend, connected over WebSockets and ActionCable for live updates. Includes role-based access control, background job processing (Redis + Sidekiq), rate limiting, and **field-level encryption of sensitive data at rest**.
-- **E-commerce platforms** — production storefronts on **Next.js 16 + Prisma + PostgreSQL** with NextAuth, plus a full **offline-first Point-of-Sale system** (Laravel + Inertia + React, IndexedDB sync, barcode & thermal-print support, sales analytics).
-- **AI-powered applications** — chat and automation products integrating the **OpenAI API** into Next.js and Flask services.
-- **Headless CMS & business systems** — content platforms on **Laravel 12 + Livewire**, plus ERP, accounting, and internal admin tooling.
-- **Full-stack apps** — multi-language Next.js sites, NextAuth-secured admin panels, and React + Express + Prisma e-commerce builds.
+**Architecture.** Rails 7 API, NestJS services, a Python AI service, and a Next.js frontend — wired over WebSockets and ActionCable so state moves live instead of on refresh. Redis and Sidekiq behind it for anything that shouldn't block a request.
 
-> 🔒 My repositories are kept private under client and team confidentiality. Happy to walk through architecture, code, and decisions on request.
+**Security.** RBAC, JWT, rate limiting, and field-level encryption at rest for PHI-grade data. Written to survive an audit, not to pass a demo.
+
+**Infrastructure.** I deploy what I build — EC2, Nginx reverse proxy, Ubuntu, background queues. Nothing gets thrown over a wall.
+
+</td><td width="50%" valign="top">
+
+### What that has shipped
+
+**Realtime platform** — multi-service system with live channels, encrypted columns, and job queues under load.
+
+**Offline-first POS** — Laravel + Inertia + React with IndexedDB sync, barcode scan, thermal print. Keeps selling when the connection drops.
+
+**Commerce** — Next.js 16 + Prisma + Postgres storefronts with NextAuth and Stripe.
+
+**AI products** — OpenAI wired into Next.js and Flask services, not bolted on as a chat box.
+
+</td></tr>
+</table>
+
+> Repos live under client and team NDA. I'll walk you through the architecture, the tradeoffs, and the things I'd do differently — on a call.
 
 ---
 
-### 🧭 At a glance
+<div align="center">
 
-| Area | What I use |
-|---|---|
-| **Backend** | Ruby on Rails · NestJS · Express · Flask · Laravel |
-| **Frontend** | Next.js · React · React Native · Inertia · Livewire |
-| **Data & messaging** | PostgreSQL · MongoDB · Redis · Sidekiq · Prisma |
-| **Realtime** | WebSockets · Socket.IO · Rails ActionCable |
-| **AI & integrations** | OpenAI API · Firebase · Stripe |
-| **Cloud & infra** | AWS (EC2, S3) · Nginx · Ubuntu Linux · Git |
-| **Practices** | RBAC · JWT auth · rate limiting · field-level encryption · background jobs · offline-first |
+### The stack, grouped by what it does
 
-<p align="center"><i>I work across the whole stack and several languages — picking the right tool per service rather than forcing one.</i></p>
+<table>
+<tr>
+<td align="center"><b>Write</b><br><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,ruby,python,php&theme=dark"><img src="https://skillicons.dev/icons?i=ts,ruby,python,php&theme=light" alt="languages"></picture>
+</td>
+<td align="center"><b>Serve</b><br><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nestjs,rails,laravel,flask&theme=dark"><img src="https://skillicons.dev/icons?i=nestjs,rails,laravel,flask&theme=light" alt="backend"></picture>
+</td>
+<td align="center"><b>Ship</b><br><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite&theme=dark"><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite&theme=light" alt="frontend"></picture>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Store</b><br><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma&theme=dark"><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma&theme=light" alt="data"></picture>
+</td>
+<td align="center"><b>Run</b><br><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,nginx,ubuntu,git&theme=dark"><img src="https://skillicons.dev/icons?i=aws,nginx,ubuntu,git&theme=light" alt="infra"></picture>
+</td>
+<td align="center"><b>Integrate</b><br><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=openai,firebase,stripe,githubactions&theme=dark"><img src="https://skillicons.dev/icons?i=openai,firebase,stripe,githubactions&theme=light" alt="integrations"></picture>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-### 📫 Get in touch
+<div align="center">
 
-<p>
-  <a href="mailto:hassanali.naeem9811@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://caffstack.com"><img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <!-- <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
-</p>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Hassan-html&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=F778BA" alt="stats">
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-html&layout=compact&hide_border=true&langs_count=6&theme=transparent&title_color=58A6FF&text_color=8B949E" alt="languages">
 
-<p align="center"><i>Open to full-stack roles where I can build the product and run the infrastructure.</i></p>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hassan-html&bg_color=0D1117&color=58A6FF&line=BC8CFF&point=F778BA&area=true&area_color=1F6FEB&hide_border=true&custom_title=Commit%20rhythm" alt="activity graph">
+
+</div>
+
+---
+
+<div align="center">
+
+**`db` → `api` → `edge` → `prod`** — one person, whole path.
+
+Open to full-stack roles where I build the product *and* run the infrastructure.
+
+<a href="mailto:hassanali.naeem9811@gmail.com"><img src="https://img.shields.io/badge/start_a_conversation-58A6FF?style=for-the-badge&logo=maildotru&logoColor=0D1117" alt="Contact"></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BC8CFF,55:1F6FEB,100:0D1117&height=110&section=footer" width="100%" alt="">
+
+</div>
